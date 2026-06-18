@@ -5,7 +5,7 @@
 I'm a passionate Frontend Developer from India who enjoys building responsive, user-friendly, and scalable web applications. I love learning new technologies and creating projects that solve real-world problems.
 
 * 🔭 **I'm currently working on:** React.js and Frontend Development Projects
-* 🌱 **I'm currently learning:** Advanced React, TypeScript, Next.js, and System Design
+* 🌱 **I'm currently learning:** Advanced React, Next.js, and System Design
 * 👯 **I'm looking to collaborate on:** Open Source Projects and Frontend Applications
 * 🤔 **I'm looking for help with:** Full-Stack Development and Industry Best Practices
 * 💬 **Ask me about:** React.js, JavaScript, Frontend Development, Git, and GitHub
