@@ -21,10 +21,8 @@ I'm a passionate Frontend Developer from India who enjoys building responsive, u
 * CSS3
 * JavaScript (ES6+)
 * React.js
-* Redux Toolkit
 * Zustand
-* Tailwind CSS
-* Bootstrap
+* CSS
 
 ### Tools & Technologies
 
