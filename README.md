@@ -36,7 +36,7 @@ I'm a passionate Frontend Developer from India who enjoys building responsive, u
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityayadav20048@gmail.com\&show_icons=true)
 
 ## 🔥 GitHub Streak
 
