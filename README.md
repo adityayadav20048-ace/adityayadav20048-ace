@@ -63,8 +63,6 @@ I'm a passionate Frontend Developer from India who enjoys building responsive, u
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### Thanks for visiting my profile! 😊
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityayadav20048@gmail.com) 
 
@@ -77,5 +75,7 @@ I'm a passionate Frontend Developer from India who enjoys building responsive, u
 
 ---
 [![](https://komarev.com/ghpvc/?username=adityayadav20048-ace&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Thanks for visiting my profile! 😊
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
