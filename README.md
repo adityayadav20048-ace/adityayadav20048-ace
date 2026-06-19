@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aditya+Kumar;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="left">📫 Connect with Me</h3>
+<h3 align="center">📫 Connect with Me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/adityayadav20048-ace" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
