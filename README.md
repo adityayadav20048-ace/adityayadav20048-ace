@@ -33,25 +33,6 @@ Passionate about building responsive and user-friendly web applications using mo
 * 📫 Reach me at: **[adityayadav20048@gmail.com](mailto:adityayadav20048@gmail.com)**
 * ⚡ **Fun Fact:** I enjoy turning ideas into interactive web applications and continuously improving my coding skills.
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Zustand
-* CSS
-
-### Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Vite
-* REST APIs
-* IntelliJ IDEA
-
 ## 🐍 Contribution Snake
 
 <!-- Snake Game Repo View -->
