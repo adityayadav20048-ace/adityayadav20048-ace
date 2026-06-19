@@ -30,9 +30,7 @@
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
 </p>
 
-# 💫 Hi 👋, I'm Aditya Kumar
-
-### 🚀 Frontend Developer | React.js Enthusiast | B.Tech Final Year Student
+### 🚀 Frontend Developer | React.js | B.Tech Final Year Student
 
 I'm a passionate Frontend Developer from India who enjoys building responsive, user-friendly, and scalable web applications. I love learning new technologies and creating projects that solve real-world problems.
 
