@@ -23,10 +23,6 @@
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
 </p>
 
-### 🚀 Frontend Developer | React.js | B.Tech Final Year Student
-
-I'm a passionate Frontend Developer from India who enjoys building responsive, user-friendly, and scalable web applications. I love learning new technologies and creating projects that solve real-world problems.
-
 ### 🚀 Aspiring Full Stack Developer | B.Tech Final Year Student
 
 Passionate about building responsive and user-friendly web applications using modern technologies. Currently exploring **React.js, Next.js, and AI**, while creating projects that solve real-world problems.
