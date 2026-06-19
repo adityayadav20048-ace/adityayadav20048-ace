@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityayadav20048-ace&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <p align="center">
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
 </p>
