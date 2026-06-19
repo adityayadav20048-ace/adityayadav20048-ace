@@ -57,8 +57,6 @@ I'm a passionate Frontend Developer from India who enjoys building responsive, u
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
