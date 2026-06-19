@@ -27,13 +27,14 @@
 
 I'm a passionate Frontend Developer from India who enjoys building responsive, user-friendly, and scalable web applications. I love learning new technologies and creating projects that solve real-world problems.
 
-* 🔭 **I'm currently working on:** React.js and Frontend Development Projects
-* 🌱 **I'm currently learning:** Advanced React, Next.js, and System Design
-* 👯 **I'm looking to collaborate on:** Open Source Projects and Frontend Applications
-* 🤔 **I'm looking for help with:** Full-Stack Development and Industry Best Practices
-* 💬 **Ask me about:** React.js, JavaScript, Frontend Development, Git, and GitHub
-* 📫 **How to reach me:** adityayadav20048@gmail.com
-* 🎓 **Education:** B.Tech (Final Year)
+### 🚀 Aspiring Full Stack Developer | B.Tech Final Year Student
+
+Passionate about building responsive and user-friendly web applications using modern technologies. Currently exploring **React.js, Next.js, and AI**, while creating projects that solve real-world problems.
+
+* 🔭 Building Frontend & Full Stack Projects
+* 🌱 Learning React, Next.js & System Design
+* 💬 Ask me about React, JavaScript, Git & GitHub
+* 📫 Reach me at: **[adityayadav20048@gmail.com](mailto:adityayadav20048@gmail.com)**
 * ⚡ **Fun Fact:** I enjoy turning ideas into interactive web applications and continuously improving my coding skills.
 
 ## 🛠️ Tech Stack
