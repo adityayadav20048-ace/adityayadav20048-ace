@@ -33,7 +33,7 @@ Passionate about building responsive and user-friendly web applications using mo
 * 📫 Reach me at: **[adityayadav20048@gmail.com](mailto:adityayadav20048@gmail.com)**
 * ⚡ **Fun Fact:** I enjoy turning ideas into interactive web applications and continuously improving my coding skills.
 
-## 🐍 Contribution Snake
+## 🐍 Eating My Contributions Since Day One
 
 <!-- Snake Game Repo View -->
 
