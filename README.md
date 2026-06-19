@@ -18,8 +18,11 @@
   </a>
 </p>
 
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<h3 align="center">Aspiring Full Stack Developer | Frontend Developer</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garvit-Trivedi&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=adityayadav20048-ace&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
