@@ -1,3 +1,32 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Garvit%20Trivedi;Full%20Stack%20Engineer%20%E2%9C%95%20AI%20Product%20Builder" alt="Typing SVG" />
+</div>
+
+<h3 align="left">📫 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://github.com/adityayadav20048-ace" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aditya-kumar-619977413/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:adityayadav20048@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Garvit-Trivedi&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
+</p>
+
 # 💫 Hi 👋, I'm Aditya Kumar
 
 ### 🚀 Frontend Developer | React.js Enthusiast | B.Tech Final Year Student
