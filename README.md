@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aditya+Kumar;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aditya+Kumar;Aspiring+Full+Stack+Developer; Frontend Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="left">📫 Connect with Me</h3>
@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Aspiring Full Stack Developer | Frontend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityayadav20048-ace&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
