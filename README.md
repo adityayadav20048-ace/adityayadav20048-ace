@@ -12,6 +12,10 @@
   <a href="mailto:adityayadav20048@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityayadav20048-ace&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 </p>
 
 <p align="center">
