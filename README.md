@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aditya+Kumar;Aspiring+Full+Stack+Developer;Frontend+Developer;Web+Developer" alt="Typing SVG" />
 </div>
 
+## 🌐 Portfolio
+
+🚀 Check out my personal portfolio website:
+
+🔗 **Portfolio:** https://adibehera2004.wixsite.com/aditya-kumar-yadav-p
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
