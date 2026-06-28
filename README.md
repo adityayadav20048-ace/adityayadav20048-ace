@@ -4,9 +4,8 @@
 
 ## 🌐 Portfolio
 
-🚀 Check out my personal portfolio website:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome)](https://adibehera2004.wixsite.com/aditya-kumar-yadav-p)
 
-🔗 **Portfolio:** https://adibehera2004.wixsite.com/aditya-kumar-yadav-p
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
